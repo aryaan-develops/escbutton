@@ -3,9 +3,23 @@ import Image from "next/image";
 import { ExternalLink } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Designs & Prototypes — esc button",
+  title: "Design Prototypes — Live Website Examples Made in India",
   description:
-    "A collection of live design prototypes built by esc button — spanning salons, wellness, libraries, fashion, yoga, photography, and productivity apps.",
+    "Browse live design prototypes by esc button — salon, yoga, library, tailor, photography, wellness, and productivity app websites. All built affordably for Indian clients.",
+  keywords: [
+    "website design prototypes India",
+    "salon website design India",
+    "yoga studio website India",
+    "photography website India",
+    "tailor website India",
+    "library website India",
+    "cheap landing page India",
+    "sample websites India",
+  ],
+  openGraph: {
+    title: "Design Prototypes — esc button",
+    description: "Live prototypes for salons, yoga studios, libraries, tailors & more. Built affordable for India.",
+  },
 };
 
 const projects = [

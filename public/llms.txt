@@ -1,0 +1,53 @@
+# esc button — Freelance Web Studio
+
+## What is esc button?
+
+esc button is an affordable Indian freelance web design and development studio. We design and build professional websites, landing pages, and digital products for startups, small businesses, salons, yoga studios, e-commerce stores, and local businesses across India.
+
+## Who we help
+
+- Small business owners across India (Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Pune, Kolkata, Jaipur, etc.)
+- Startups and solopreneurs who need a website quickly and cheaply
+- Service businesses like salons, yoga studios, tailors, studios, libraries
+- E-commerce brands that need a clean, fast online store
+- Anyone with an idea who needs digital help without expensive agency prices
+
+## What we do
+
+1. **Web Design** – Modern, clean, mobile-responsive UI/UX design
+2. **Web Development** – Fast websites with Next.js, React, and Tailwind CSS
+3. **Digital Help** – Domain setup, hosting, deployment, SEO basics, bug fixes
+
+## Our approach (Indian Jugaad Style)
+
+We believe in smart, practical solutions. No unnecessary complexity. No bloated code. We build lean, fast, effective websites that do the job — delivered quickly and priced honestly for Indian budgets.
+
+## Pricing
+
+Budget-friendly pricing starting from under ₹5,000. We work with clients across all budgets, offering transparent, no-surprise quotes.
+
+## Contact
+
+- Email: 2005aryankumar333@gmail.com
+- Response time: < 24 hours
+- Location: India (working with clients pan-India and globally)
+
+## Live Projects
+
+- Indoshree (https://indoshree.com) — E-commerce website
+- DropPurity (https://droppurity.com) — Product landing page
+- Zial Hair Studio (https://zialport.vercel.app) — Salon website
+- Ankhaae (https://ankhaae.vercel.app) — Mental wellness website
+- Liba Library (https://liba-snowy.vercel.app) — Library website
+- Sui Dhaga (https://sui-dhaga-ras1.vercel.app) — Tailor website
+- Smriti Yoga (https://smritiyoga.vercel.app) — Yoga studio website
+- Rose Studio (https://rosestudio.vercel.app) — Photography studio website
+- TaskiMate (https://taskimatezz.vercel.app) — Productivity app
+
+## Technologies
+
+Next.js, React, Tailwind CSS, TypeScript, Figma, Vercel, MongoDB
+
+## Website
+
+https://escbutton.vercel.app

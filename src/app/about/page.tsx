@@ -2,8 +2,22 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About — esc button",
-  description: "We're a small freelance web studio that designs and builds websites for businesses that want to grow online without the agency price tag.",
+  title: "About Us — Affordable Freelance Web Studio India",
+  description:
+    "Learn about esc button — an affordable Indian freelance web studio building websites for small businesses, salons, startups, and local brands pan-India. Smart, fast, budget-friendly.",
+  keywords: [
+    "about esc button",
+    "Indian freelance web studio",
+    "affordable web developer India",
+    "cheap website design India",
+    "jugaad web design India",
+    "small business website India",
+    "budget web development",
+  ],
+  openGraph: {
+    title: "About esc button — Budget Freelance Web Studio India",
+    description: "Smart web solutions for Indian businesses. No bloat, no agency pricing — just results.",
+  },
 };
 
 const stack = [

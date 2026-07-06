@@ -4,8 +4,21 @@ import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Our Work — esc button",
-  description: "A curated selection of websites and digital products we've designed and built for clients.",
+  title: "Our Work — Portfolio of Websites Built in India",
+  description:
+    "View websites built by esc button — affordable, fast, and clean. Portfolio includes e-commerce, salons, yoga studios, landing pages, and apps built for Indian businesses.",
+  keywords: [
+    "web design portfolio India",
+    "affordable website examples India",
+    "freelance portfolio India",
+    "Indian startup website portfolio",
+    "cheap website examples",
+    "small business website portfolio",
+  ],
+  openGraph: {
+    title: "Portfolio — Websites Built by esc button",
+    description: "Real websites, real clients, budget prices. See what we’ve built for Indian businesses.",
+  },
 };
 
 const projects = [
